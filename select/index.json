@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はじまりのパレード",
+  "base_artist": "霜月はるか",
+  "createdAt": "2026-02-07T14:59:49.817344Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はじまりのパレード",
+      "artist": "霜月はるか",
+      "has_synced": false,
+      "path": "select/pl_01_はじまりのパレード_霜月はるか.txt"
+    }
+  ]
+}
